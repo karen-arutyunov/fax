@@ -1,0 +1,5 @@
+: 1
+location: libfoo/
+
+:
+location: libbar/
